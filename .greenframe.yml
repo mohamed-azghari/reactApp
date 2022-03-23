@@ -3,7 +3,4 @@ scenarios:
   - path: ./scenario.js
     name: My first scenario
 
-containers:
-  - "CONTAINER_NAME"
-databaseContainers:
-  - "DATABASE_CONTAINER_NAME"
+
