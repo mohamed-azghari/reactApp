@@ -2,5 +2,5 @@ baseURL: http://2eb76fa4-1041-4d52-b210-6494657cc9f9.nat.greenframe.io:8080/
 scenarios:
   - path: ./scenario.js
     name: My first scenario
-
+threshold: 0.029
 
